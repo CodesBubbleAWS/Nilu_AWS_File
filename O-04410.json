@@ -1,0 +1,129 @@
+{
+  "Component_Code": "O-04410",
+  "Content_Code": "C-00001171",
+  "Book_Name": "Trackers of Dynamic Earth",
+  "Content_Series": [
+    "A-CSERIES-00020",
+    null
+  ],
+  "Content_Type": [
+    "A-CTYPE-00044",
+    null
+  ],
+  "Content_Variation": [
+    "A-CVARIATION-11111",
+    null
+  ],
+  "Title": "Trackers of Dynamic Earth",
+  "Series": [
+    "A-CSERIES-00020",
+    null
+  ],
+  "word_count": "3102",
+  "Delivery_Format": [
+    "A-ODELFORM-00022",
+    null
+  ],
+  "ERP_Title": "Trackers-of-Dynamic-Earth_NAV_ENG_LT_PRT",
+  "File_URL": null,
+  "Print_specification": [
+    "A-OPRINTSPEC-00048",
+    null
+  ],
+  "Component_Created": "2015-04-15 15:59:53",
+  "Component_Updated": "2018-09-21 15:07:05",
+  "Component_Status": 3000,
+  "actual_page_count": "32pp + cover",
+  "Product_copyright_year": null,
+  "ISBN": "978-1-4509-0768-2",
+  "Product_sales_description": "Trackers of Dynamic Earth Book",
+  "stockable": null,
+  "class": [
+    "A-PCLASS-00090",
+    null
+  ],
+  "class_override": null,
+  "keywords": "coral reefs|David Carver|Earth|Earth science|earthquakes|Earth's crust|Earth's layers|geologists|geology|layers of Earth|oceanographer|oceanography|oceans|plate tectonics|public safety|Sarah Gray|scientists|Scott Rowland|seismologists|seismology|volcanoes|volcanologists|volcanology",
+  "content_created": "2015-04-15 15:54:46",
+  "content_updated": "2022-05-11 01:22:23",
+  "content_copyright_year": 2015,
+  "bisac_details": [
+    {
+      "bisac_code": "JNF007090",
+      "description": "Juvenile Nonfiction / Biography & Autobiography / Science & Technology"
+    },
+    {
+      "bisac_code": "JNF011000",
+      "description": "Juvenile Nonfiction / Careers"
+    },
+    {
+      "bisac_code": "JNF037010",
+      "description": "Juvenile Nonfiction / Science & Nature / Earth Sciences / Earthquakes & Volcanoes"
+    },
+    {
+      "bisac_code": "JNF037060",
+      "description": "Juvenile Nonfiction / Science & Nature / Earth Sciences / Rocks & Minerals"
+    },
+    {
+      "bisac_code": "JNF037070",
+      "description": "Juvenile Nonfiction / Science & Nature / Earth Sciences / Water (Oceans, Lakes, etc.)"
+    },
+    {
+      "bisac_code": "JNF046000",
+      "description": "Juvenile Nonfiction / Readers / Intermediate"
+    },
+    {
+      "bisac_code": "JNF051120",
+      "description": "Juvenile Nonfiction / Technology / How Things Work-Are Made"
+    }
+  ],
+  "video_type": [],
+  "Programs_used_in": [
+    {
+      "Program_grade": "6",
+      "Program_unit": "Unit 5",
+      "Program_week": "Week 1 | Week 2",
+      "Program_variation": "All",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Benchmark Literacy (2011)"
+    },
+    {
+      "Program_grade": "6",
+      "Program_unit": "Unit 5",
+      "Program_variation": "All",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Benchmark Literacy (2016)"
+    },
+    {
+      "Program_grade": "6",
+      "Program_unit": "Unit 5",
+      "Program_week": "Week 1 | Week 2",
+      "Program_variation": "All",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Benchmark Literacy - Common Core (2014)"
+    },
+    {
+      "Program_grade": "5",
+      "Program_variation": "All",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Anchor Comprehension Workshop (2012)"
+    },
+    {
+      "Program_grade": "6",
+      "Program_unit": "Unit 8",
+      "Program_week": "All Weeks",
+      "Program_variation": "SNI - National (Standards Not Indicated) | FL - Florida | TN - Tennessee | NC - North Carolina | National .5 | National .75 | National",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Benchmark Advance 2"
+    },
+    {
+      "Program_grade": "4",
+      "Program_unit": "Unit 8",
+      "Program_week": "Week 1 | Week 2 | Week 3",
+      "Program_variation": "All",
+      "Program_component_type": "Leveled Readers",
+      "Program_name": "Benchmark Advance"
+    }
+  ],
+  "Related_Component": "O-X15537, O-X09014, O-X05356, O-X01037, O-04410, O-Y08077, O-Y08752, O-L3179"
+}
